@@ -19,7 +19,7 @@
 						<key>needs-shine</key>
 						<false/>
 						<key>url</key>
-						<string>http://cdn1.97wanwan.com/gwc/ic_launcher.png</string>
+						<string>http://cdn1.97wanwan.com/gwc/images/icon.png</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -27,7 +27,7 @@
 						<key>needs-shine</key>
 						<false/>
 						<key>url</key>
-						<string>http://cdn1.97wanwan.com/gwc/ic_launcher.png</string>
+						<string>http://cdn1.97wanwan.com/gwc/images/icon.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
